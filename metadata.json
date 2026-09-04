@@ -1,0 +1,6 @@
+{
+  "name": "mysarkariresult.co.in - Official Portal",
+  "description": "mysarkariresult.co.in - Official Government job portal with 1000+ vacancies, results, admit cards, live moving current affairs ticker, blinking alerts, and secure admin panel.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
